@@ -1,0 +1,158 @@
+@media (min-width: 1370px){
+.container { max-width: 1280px;}
+}
+
+
+@media screen and (max-width: 1600px){
+    h1{font-size: 70px;}
+    h2{font-size: 55px;}
+    h3{font-size: 38px;}
+    h5{font-size: 23px;}
+    .banner-slider{padding: 152px 0 80px;}
+    .drone_services::before{width: 38%;}
+    .drone_services .right_title{font-size: 26px; right: -9%;}
+
+    .about_info{background-size:50%;}
+    .cover_text figure{max-width: 640px;}
+    .cover_text .slide_con p{font-size: 28px;}
+
+    .vid_img{padding: 300px 0;}
+    .video_info{max-width: 750px; padding: 35px;}
+    .video_btn a{width: 115px;height: 115px; font-size: 35px; line-height: 114px;}
+
+    .inner-banner-text h3{font-size: 40px;}
+    .inner-banner-text::before{width: 215px;}
+    .our_work .move01 {left: 7px; top: 30px;}
+    .whowe_are .heigh-light{font-size: 95px;}
+
+    .drone_camera h5{font-size: 22px; margin-bottom: 12px;}
+    .drone_camera span{font-size: 22px; margin-bottom: 10px;}
+    .point_items{padding-left: 10px;}
+
+}
+
+@media screen and (max-width: 1440px){
+    .section{padding: 55px 0;}
+    h1{font-size: 60px;}
+    h2{font-size: 45px;}
+    h3{font-size: 34px;}
+    .banner-slider{padding: 160px 0 85px;}
+    .about_con{padding-left: 30px;}
+    .about_con h6{margin-bottom: 15px;}
+    p{font-size: 16px;}
+    .site-header .navbar-brand{width: 100px;}
+    .site-header.fixed-header .navbar-brand{width: 80px;}
+    .sidebar_menu .navbar-nav li a{font-size: 16px;}
+    .cover_text .slide_con p{font-size: 24px;}
+    .video_btn{padding: 10px;}
+    .video_btn a{width: 90px;height: 90px; font-size: 30px; line-height: 90px;}
+
+    .our_work .move01{left: 7px; top: 15px; width: 130px;}
+    .point_items h6{font-size: 22px;}
+
+    .drone-points figure .points04{top: 68%;}
+    .point_items:nth-of-type(4){bottom: 8px;}
+    .point_items:nth-of-type(5){bottom: -8%;}
+    .point_items:nth-of-type(4) img{left: -100%; top: -26px;}
+    .drone-points figure span{width: 18px; height: 18px;}
+    .drone-points figure span::after{left: -12px; top: -12px; right: -12px; bottom: -12px;}
+    .drone-points figure span::before{left: -5px; top: -5px; right: -5px; bottom: -5px;}
+
+    .contact_banner{padding: 210px 0px 160px;}
+    .address address h6{font-size: 20px;}
+    .form-fill .form-group{margin-bottom: 20px;}
+    .form-fill .form-group input, .form-fill .form-group textarea{font-size: 20px;}
+
+}
+
+@media screen and (max-width:1366px){
+    h1{font-size: 50px;}
+    h2{font-size: 40px;}
+    h3{font-size: 32px;}
+
+    .banner-slider{padding: 100px 0 50px;}
+    .cover_text .slide_con p{font-size: 23px;}
+    .cover_text .slide_con h1{margin-bottom: 10px;}
+
+    .drone_services .move01{left: 30px; width: 130px;}
+    .move01{width: 130px;}
+    .drone_grid h4{font-size: 25px;}
+    .video_wrapper{padding-right: 190px;}
+    .video_wrapper .slick-next{right: -125px;bottom: 45px;}
+
+    .footer_info ul li{font-size: 16px;}
+    .footer_logo p{padding: 0 10px; margin-bottom: 0;}
+
+    .inner-banner-text p{margin-bottom:5px; font-size: 20px;}
+    .inner-banner-text h3{font-size: 30px;}
+    .inner-banner-text::before{width: 170px;}
+    .whowe_are .heigh-light{font-size: 75px;}
+    .primary_drone::before{width: 52%;}
+    .point_items p{background-color: #fff;}
+
+    .point_items h6{font-size: 20px;}
+    .point_items:nth-of-type(5){bottom: -17%;}
+    .drone-points figure .points05{bottom: 10%;}
+    .point_items:nth-of-type(4){bottom: -35px;}
+
+}
+
+@media(max-width:1200px) {
+    h2{font-size: 42px;}
+
+}
+
+
+ @media(max-width:1024px) {
+    h1{ font-size: 54px;}
+    .section{padding: 60px 0;}
+
+
+
+}
+
+
+@media(max-width:991px) {
+    h1{font-size: 43px;}
+    h2{font-size:40px;}
+    h3{font-size: 38px;}
+    h4{font-size: 28px;}
+
+}
+
+@media(max-width:768px) {
+
+
+}
+
+
+@media(max-width:767px) {
+h1{font-size: 38px;}
+h2{font-size:38px;}
+h3{font-size: 36px; }
+
+
+}
+
+@media(max-width:667px) {
+
+
+}
+
+
+@media(max-width:580px) {
+    h4{font-size: 35px;}
+
+
+
+}
+
+@media(max-width:480px) {
+
+
+}
+
+
+@media(max-width:390px) {
+
+}
